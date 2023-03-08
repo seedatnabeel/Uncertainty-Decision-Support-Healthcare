@@ -1,4 +1,4 @@
-# Uncertainty-Decision-Support-Healthcare
+# Uncertainty Decision Support
 
 Repository for MCU-Net: A framework towards uncertainty representations for decision support system patient referrals in healthcare contexts
 
